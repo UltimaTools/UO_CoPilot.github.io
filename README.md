@@ -4,7 +4,7 @@ This is a derivative of Razor (https://github.com/markdwags/Razor) and RazorEnha
 
 RazorEnhanced is an awesome project originally developed by  AlexDan. It was a really cool idea in that it used the old Razor code, but added the ironpython interfaces so that the scripting language became a true language instead of a scripting language coded by hand for UO. 
 
-Currently uo_copilot is under development and is working, but not usable. 
+Currently uo_copilot is under development and is working, but not complete. 
 
 The improvements I am making are things I couldn't do within the existing player base of RazorEnhanced.
 
